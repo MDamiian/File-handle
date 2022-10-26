@@ -1,6 +1,4 @@
-#include <iostream>
 #include "administrador.hpp"
-using namespace std;
 
 int main() {
   Administrador admin;
